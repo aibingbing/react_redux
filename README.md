@@ -1,3 +1,11 @@
+# VSCode插件
+## Auto Import
+## Debugger for Chrome
+## ESLint
+# Chrome插件
+## React Developer Tools
+## Redux DevTools
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
